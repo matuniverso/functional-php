@@ -1,0 +1,26 @@
+{
+    "aatrox": {
+        "class": "fighter",
+        "damage": 90
+    },
+    "gragas": {
+        "class": "tank",
+        "damage": 70
+    },
+    "zed": {
+        "class": "assassin",
+        "damage": 200
+    },
+    "ashe": {
+        "class": "marksman",
+        "damage": 100
+    },
+    "bard": {
+        "class": "support",
+        "damage": 20
+    },
+    "riven": {
+        "class": "fighter",
+        "damage": 100
+    }
+}
